@@ -5,6 +5,7 @@
     border: 1px solid rgb(124, 124, 124);
     width: 500px;
     margin: 20px auto;
+    border-radius: 20px;
   }
   
   .description {
