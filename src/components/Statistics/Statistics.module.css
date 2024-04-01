@@ -4,7 +4,8 @@
   align-items: center;
   border: 1px solid rgb(124, 124, 124);
   width: 500px;
-  margin: 20px auto;
+  margin: 10px auto;
+ 
 }
 
 .title {
@@ -16,6 +17,7 @@
   flex-direction: row;
   width: 100%;
   align-items: center;
+  margin-left: -40px;
   
 }
 
@@ -26,5 +28,5 @@
   padding: 10px;
   font-weight: 700;
   color: rgb(255, 255, 255);
-  margin-left: -40px;
+ 
 }
